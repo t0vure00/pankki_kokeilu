@@ -1,1 +1,5 @@
 node_modules/
+/build-DLLRFID-Desktop_Qt_5_15_0_MinGW_32_bit-Debug
+DLLRFID/DLLRFID.pro.user
+/build-kokeiluExesignaaleilla-Desktop_Qt_5_15_0_MinGW_32_bit-Debug
+kokeiluExesignaaleilla/kokeiluExesignaaleilla.pro.user
